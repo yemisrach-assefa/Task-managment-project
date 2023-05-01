@@ -20,8 +20,8 @@ function MadeWithLove() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
       {"Built with love by "}
-      <a rel="noopener noreferrer" href="https://linkedin.com/in/mostafa3li/" target="_blank">
-        Mostafa Ali
+      <a rel="noopener noreferrer" href="https://linkedin.com/in/yemisrachassefa/" target="_blank">
+      yemisrach assefa
       </a>
     </Typography>
   );

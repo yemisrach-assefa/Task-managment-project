@@ -4,7 +4,7 @@
 ##### a friendly frontend app using `React.js` (Routing, Context API, React hooks, MaterialUI)
 
 ## First time configurations
-- `git clone https://github.com/mostafa3li/task-manager-app.git`
+- `git clone https://github.com/yemisrach-assefa/Task-managment-project.git`
 - `cd task-manager-app/ && npm install`
 - `touch .env`
 **==> add the following environment variables:**
@@ -22,12 +22,5 @@
 
 -----------------------------------------------------------------------------------------------------
 
-## Sign in
-![](screenshots/1.png)
 
-## add & edit & delete & view a Task
-![](screenshots/2.png)
-## search for a Task
-![](screenshots/3.png)
-## view profile & update info & update image
-![](screenshots/4.png)
+
